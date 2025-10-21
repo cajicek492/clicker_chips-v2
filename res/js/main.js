@@ -3,7 +3,7 @@ const counter = document.getElementById("counter");
 const upgrade = document.getElementById("upgrade");
 const autoClicker = document.getElementById("autoclicker")
 
-let numberOfChips = 0;
+let numberOfChips = 100;
 let chipAutoClick = 0;
 let costOfClickUpgrade = 10;
 let costOfAutoClicker = 2500;
